@@ -1,7 +1,7 @@
 from deta.lib import app
 import requests
 import json
-mytoken = 'xoxb-553244196757-1092574336726-ZwUbL0gfbiEjVOCnzLLYbO8K'
+mytoken = 'xoxb-1106306265124-1085398447143-AXpU6mvLNJ0Szukvbg6MnIjw'
 webhook_url = 'https://hooks.slack.com/services/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'
 slack_data = {'text': "Random Text"}
 
