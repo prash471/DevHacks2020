@@ -1,7 +1,7 @@
 # DevHacks2020
 
 ## Problem
-As a user of some slack channel in some community forum, most of the time we ask our questions without checking whether similar questions have already been asked. Objective is to remove that extra conversation and reduce the effort of both questioner and responsder.
+As a user of some slack channel in any community forum, most of the time we ask our questions without checking whether similar questions have already been asked. Objective is to remove that extra conversation and reduce the effort of both questioner and responsder.
 
 ## Solution 
 A slack bot
