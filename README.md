@@ -6,6 +6,7 @@ As a user of some slack channel in any community forum, most of the time we ask 
 
 ## Solution 
 A slack bot
+
 Normally a user asks questions like `Which is best book to learn Javascript?`. If admin installs this slack bot, user can use slash command /question before asking question example: `/question Which is best book to learn Javascript?`. 
 By doing this he will get a list of similar questions already asked in that slack channel. He can follow any thread if any of them matches his question, in case none matches, he may proceed with Submit to post his question.
 
